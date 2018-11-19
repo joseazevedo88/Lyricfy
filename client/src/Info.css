@@ -1,0 +1,11 @@
+#info {
+  color: white;
+  margin-top: 125px;
+  width: 30%;
+  float: left;
+}
+
+.img-fluid {
+  margin: 5px;
+  border-radius: 5px;
+}
